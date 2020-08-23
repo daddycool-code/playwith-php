@@ -1,6 +1,6 @@
 <?php
 
-
+//Given an array A of size N. 
 // Write a  code to find duplicate elements in array.  Print Duplicate 
 
 

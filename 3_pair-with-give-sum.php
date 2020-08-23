@@ -2,7 +2,8 @@
 /*
 Find pairs with given sum in a sorted array.
 
-Given an array A of size N. Write a code to find all pairs in the array that sum to a number equal to K. 
+Given an array A of size N. 
+Write a code to find all pairs in the array that sum to a number equal to K. 
 If no such pair exists then output will be –1.
 
 For example 

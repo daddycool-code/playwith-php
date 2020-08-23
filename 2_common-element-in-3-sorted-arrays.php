@@ -1,6 +1,7 @@
 <?php
 
 /*
+Given 3 array A,B,C of size N,M,K. 
 Write a program to find common elements in three sorted arrays. 
 
 For example –
